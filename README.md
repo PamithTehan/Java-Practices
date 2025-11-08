@@ -15,3 +15,5 @@ The programs contains:
 ## Features
 
 * Used enhanced switch for simple calculator programme
+
+---
