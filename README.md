@@ -8,5 +8,6 @@ The programs contains:
 
 * The Mad Lib game.
 * Shopping cart programme
+* Number guessing programme
 
 ---
