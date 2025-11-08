@@ -9,5 +9,9 @@ The programs contains:
 * The Mad Lib game.
 * Shopping cart programme
 * Number guessing programme
+* Simple Calculator programme
 
 ---
+## Features
+
+* Used enhanced switch for simple calculator programme
